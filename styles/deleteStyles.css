@@ -1,4 +1,8 @@
- 
+
+  
+   #team{
+    padding-bottom: 4%;
+  }
    /* DESCRIPTION AND CARDS */
 
 
@@ -16,9 +20,7 @@
 
   
 
-#team{
-  padding-bottom: 4%;
-}
+
   .cards{
       display: flex;
       flex-direction: row;
@@ -61,7 +63,7 @@
       width: 90%;
   }
   .listSkills li{
-      color: rgb(230, 230, 230);
+      color: black;
       list-style: none;
   }
   .link{
